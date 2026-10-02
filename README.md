@@ -1,4 +1,4 @@
-# Bank Churn Analysis — Data Prepparation & Exploratory Data Analysis (EDA)
+# Bank Churn Analysis — Data Preparation & Exploratory Data Analysis (EDA)
 
 ## Business Context
 I'm acting as a Data Analyst for a retail bank that has seen an uptick in customer churn alongside slowing growth. This project prepares and explores the bank's customer data to understand the drivers behind churn, as a foundation for future churn-prediction and customer-segmentation work.
